@@ -1,6 +1,4 @@
-"""Leakage-free training and evaluation for the Kaggle credit-card fraud dataset.
-
-Place creditcard.csv in this directory, then run:
+"""Place creditcard.csv in this directory, then run:
     python fraud_detection.py
 """
 
